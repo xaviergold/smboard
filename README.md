@@ -1,1 +1,1 @@
-# MiniBoard
+# smboard
